@@ -4,13 +4,20 @@ Soummissions pour les labo csi 2532
 
 ## Lab 3:
 
-Diagram-ER: ![ER](/assets/diagrams/lab3er.png)
+Diagramme-ER: ![ER](/assets/diagrams/lab3er.png)
 
-Diagram-MR: ![MR](/assets/diagrams/lab3mr.png)
+Diagramme-MR: ![MR](/assets/diagrams/lab3mr.png)
 
 Pour implementer la db, utilisez le ![schema](/db/lab3schema.sql).
+
+## Lab 4:
+
+Diagramme-ER (question 6): ![ER](/assets/diagrams/lab4er.png)
+
+Updated Schema: ![schema](/db/lab4schema.sql)
 
 Labs termines:
 - lab 1
 - lab 2
 - lab 3
+- lab 4
