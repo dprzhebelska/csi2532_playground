@@ -19,6 +19,6 @@ CREATE TABLE "teaches" (
   "start_date" date,
   "end_date" date,
   PRIMARY KEY ("semester_id"),
-  FOREIGN KET ("professor-id") REFERENCES professor("professor_id"),
-  FOREIGN KET ("course-id") REFERENCES course("course_id"),
+  FOREIGN KEY ("professor-id") REFERENCES professor("professor_id"),
+  FOREIGN KEY ("course-id") REFERENCES course("course_id"),
 );
