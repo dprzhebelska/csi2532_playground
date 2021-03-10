@@ -16,8 +16,13 @@ Diagramme-ER (question 6): ![ER](/assets/diagrams/lab4er.png)
 
 Updated Schema: ![schema](/db/lab4schema.sql)
 
+## Lab 5:
+
+La migration a été effectuee dans le cadre de livrable 2.
+
 Labs termines:
 - lab 1
 - lab 2
 - lab 3
 - lab 4
+- lab 5
