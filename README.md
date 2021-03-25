@@ -22,11 +22,11 @@ La migration a été effectuee dans le cadre de livrable 2.
 
 ## Lab 6:
 
-Les fichiers pour labo 6 se trouvent dans le dossier db/.
+Voir le fichier [lab6.md](./lab6.md)
 
 ## Lab 7:
 
-Les fichiers pour labo 6 se trouvent dans le dossier db/.
+Les fichiers pour labo 7 se trouvent dans le dossier db/.
 
 Labs termines:
 - lab 1
@@ -36,3 +36,4 @@ Labs termines:
 - lab 5
 - lab 6
 - lab 7
+
