@@ -20,9 +20,14 @@ Updated Schema: ![schema](/db/lab4schema.sql)
 
 La migration a été effectuee dans le cadre de livrable 2.
 
+## Lab 6:
+
+Voir le fichier [lab6.md](./lab6.md)
+
 Labs termines:
 - lab 1
 - lab 2
 - lab 3
 - lab 4
 - lab 5
+- lab 6
